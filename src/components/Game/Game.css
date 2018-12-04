@@ -1,7 +1,7 @@
 .message {
     width: 960px;
-    background-color:lavender;
-    font-size: 18px;
+    background-color: lightcoral;
+    font-size: 20px;
     font-family: Arial, Helvetica, sans-serif;
     display: flex;
     justify-content: center;
@@ -9,4 +9,5 @@
     margin:auto;
     flex-wrap: wrap;
     margin-top: 10px;
+    height: 40px;
 }

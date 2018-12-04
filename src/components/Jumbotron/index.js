@@ -5,7 +5,7 @@ const Jumbotron = () => (
     <div className="jumbotron jumbotron-fluid">
         <div className="container text-center">
             <h1 className="display-4">Clicky Game!</h1>
-            <p>Click on any image get points, but dont click on any more than once!</p>
+            <p>Click on any image to get points, but dont click on any more than once!</p>
         </div>
     </div>
 );
