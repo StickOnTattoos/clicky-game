@@ -1,0 +1,11 @@
+.allCards {
+    padding: 10px;
+}
+
+.allCards img {
+    background-color: black;
+    margin: 5px;
+    padding: 2px;
+    max-height: 200px;
+    max-width: 200px;
+}
